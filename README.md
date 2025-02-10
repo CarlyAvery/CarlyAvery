@@ -1,10 +1,18 @@
-👋 Hi I’m Carly (She/Her),
-  
-After over a decade-long career, I am learning everything I can to switch over to a career in Business and Data Analytics while working full time, being a wife, caring for two kids under two, and housing a dog and cat. I wouldn't trade it for anything and all that is previously mentioned makes me work harder!
+👋 Hi I’m Carly (She/Her), a passionate and analytic thinker transitioning into the world of business analysis. I thrive on solving problems, uncovering insights, and working with people to drive meaningful change. With a keen eye for detail and love for data-driven decision-making, I enjoy breaking down complex challenges and working directly with company stakeholders to find efficient solutions. 
 
-I love photography, traveling, performing (I was a Broadway performer in what seems like my previous life) and live music. 
+**Technical skills:** 
+- Proficient in SQL, Tableau, Power BI, and Advanced Spreadsheets
+- Strong foundation in business analytics
 
-I’m looking to collaborate on EVERYTHING! I cannot wait to get my feet wet and jump into tech. 
+**Beyond the technical:**
+- Highly collaborative and inquisitive
+- Communication skills 
+- Problem-solving and critical thinking
+- Strong foundation in business analytics
+
+**In my free time:**
+
+I spend time with my husband and two young daughters, I love photography, traveling, performing (I was a Broadway performer in what seems like my previous life) and live music. 
 
 Email me! Send me a message on Linkedin or Instagram! I would love to connect. 
 
